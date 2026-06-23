@@ -1,0 +1,8 @@
+Copyright (c) 2026 Rozix Systems. All rights reserved.
+
+This software, "Rozix Barcode Studio," and its associated documentation are the 
+intellectual property of Rozix Systems. 
+
+No part of this software may be reproduced, distributed, or transmitted in any 
+form or by any means, including photocopying, recording, or other electronic 
+or mechanical methods, without the prior written permission of Rozix Systems.
