@@ -1,4 +1,3 @@
-```markdown
 # Rozix Barcode Studio
 
 Rozix Barcode Studio is a free Windows application developed by **Rozix Systems** for creating, generating, and printing professional barcodes with a simple and modern interface.
@@ -45,4 +44,3 @@ This project is licensed under the Rozix Systems Software License.
 ---
 
 © 2026 Rozix Systems. All rights reserved.
-```
