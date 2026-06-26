@@ -15,11 +15,6 @@ Rozix Barcode Studio is a free Windows application developed by **Rozix Systems*
 ## Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/Screenshot (37).png" width="220">
-  <img src="assets/screenshots/Screenshot (38).png" width="220">
-</p>
-
-<p align="center">
   <img src="assets/screenshots/Screenshot (39).png" width="220">
   <img src="assets/screenshots/Screenshot (40).png" width="220">
 </p>
